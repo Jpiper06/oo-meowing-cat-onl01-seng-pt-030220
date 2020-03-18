@@ -5,4 +5,4 @@ Class cat
     puts "meow!"
   end 
 end
-end 
+
